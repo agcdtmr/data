@@ -1,2 +1,2 @@
-# data
-My curios mind exploring data
+# Data Science
+Exploring the world of Data Science
