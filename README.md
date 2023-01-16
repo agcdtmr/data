@@ -1,2 +1,2 @@
-# Data Science
-Exploring the world of Data Science
+# Data
+Exploring the world of Data
