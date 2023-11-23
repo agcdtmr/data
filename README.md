@@ -3,7 +3,7 @@ Exploring the world of Data
 
 ## [Techlabs Data Science Track](https://github.com/agcdtmr/data/tree/main/TechLabs)
 
-Learnings: 
+📚 Strengthened foundational knowledge in:
 - Python
 - Numpy
 - RegEx
